@@ -73,8 +73,4 @@ Here are some of the tools and technologies I use:
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrfadlika&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
 ⭐️ From [Raffi Fadlika](https://github.com/mrfadlika)
