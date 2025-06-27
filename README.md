@@ -46,11 +46,16 @@ Here are some of the tools and technologies I use:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrfadlika&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfadlika&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mrfadlika&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfadlika&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🏆 GitHub Achievements
